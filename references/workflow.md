@@ -21,3 +21,7 @@
 Blender 4.5 Eevee 可测试 BLENDED 平滑透明；DITHERED 低采样噪点需检查。ShaderNodeTexImage 序列属性在 image_user；CompositorNodeImage 的 frame_duration/frame_start/frame_offset/use_auto_refresh/use_cyclic 在节点本身。字幕放最终清晰层，检查中文和符号缺字。
 
 统一曝光、饱和度、网点/颗粒和暗部在最后进行。青色数据、品红情绪、酸黄强调、深蓝底仅为可选色板。滤镜不能掩盖追踪漂移与边缘毛刺。
+
+## 镜头设计扩展
+
+在音乐镜头表中加入增强类型、挂载平面、内部交互、追踪有效区间、无控件原因、切镜关系和主题色彩目标。按 [visual-language.md](visual-language.md) 选择同主体换背景、同背景换主体、场景先出等关系，并按 [style-and-color.md](style-and-color.md) 设计生成素材和最终曲线。片块归位规则保持不变；控件数量不能代替内容、状态与空间行为的丰富度。
