@@ -1,6 +1,6 @@
 interface:
-  display_name: "ATO Blender 实景拼贴"
-  short_description: "实景追踪、轮廓优先裁切、生图撕纸素材与下一镜头分片拼接的 Blender 工作流"
-  default_prompt: "使用 $ato-blender 拆解参考镜头，沿语义轮廓裁切下一画面，制作并检查 Blender 实景拼贴音乐视频。"
+  display_name: "自主剪辑与混合合成"
+  short_description: "根据素材自主判断叙事、混剪或vlog，统筹声音、排版、调色及二维与Blender制作"
+  default_prompt: "使用 $ato-blender，依据我提供的歌曲、素材和意图自主判断剪辑风格，逐镜分配二维与Blender，完成切镜、声音、调色、排版和可编辑成片交付。"
 policy:
   allow_implicit_invocation: true
