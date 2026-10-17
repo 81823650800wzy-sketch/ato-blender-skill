@@ -1,5 +1,13 @@
 # Validation
 
+Documentation update validated 2026-10-17:
+
+- Installed skill and publish copy passed skill frontmatter validation (Python UTF-8 mode).
+- All local Markdown file links in the publish copy resolve.
+- Synced existing local workflow references and added impact-frame timing, morphing lightning, particle/foreground interaction, environment deformation and layered impact audio guidance.
+- Publish text checked for local drive paths and source-video identifiers; no production media included. Helper source files are unchanged after newline normalization, so the earlier helper tests below were not rerun for this documentation update.
+- The impact-frame case records implementation and technical checks, without claiming final listening or user aesthetic approval.
+
 Validated 2026-10-07 on Windows, Python 3.12, Blender 4.5.10 LTS.
 
 - Skill frontmatter validation: passed (Python UTF-8 mode).
