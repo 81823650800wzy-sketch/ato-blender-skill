@@ -41,3 +41,7 @@ python scripts/inspect_reference.py --help
 脚本支持确定性处理和证据抽取，不自动评价审美、识别所有音乐事件或替代最终视听检查。编码可播放、轮廓精度和艺术判断分别记录；没有听觉检查时如实说明。历史工具验证见 [VALIDATION.md](VALIDATION.md)。
 
 仓库包含通用说明、脚本和安装元数据，不包含用户原视频、截图、歌曲、字体、聊天记录或生产工程。参考案例为匿名技术观察，不随仓库分发对应素材。代码与文档使用 MIT 许可；用户素材及生成资产的使用许可由各自来源决定。
+
+## 2026-11-12 更新
+
+同步本机最新技能：Crazy Error 桌面叙事、漫画格 MV、历次修订导演判断、个性素材与 TTS 工作台。配套黑闪技能独立维护于 [black-flash-impact-skill](https://github.com/81823650800wzy-sketch/black-flash-impact-skill)。公共仓库仅包含通用技能与工具，不包含私人聊天或媒体。
